@@ -1,5 +1,7 @@
 # Tide
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Jsamson33/tide)](https://goreportcard.com/report/github.com/Jsamson33/tide)
+
 Tide est un outil CLI en Go conçu pour générer des analyses basées sur une logique binaire de 6 états (hexagrammes). Il simule 6 tirages binaires équiprobables pour construire une pile de 6 lignes, sans gestion de lignes mutantes.
 
 ## Architecture
